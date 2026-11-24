@@ -173,7 +173,7 @@ JAVA_HOME=<jdk-21> ./gradlew :app:assembleRelease
 # সার্টিফিকেট SHA-256: 1b68ee2824b38a73c700dbac9d45d527e7481f704a32cf3f3d35d4a8edb57139
 ```
 
-রিলিজ: `gh release create vX.Y.Z dist/app-release.apk --title ... --notes ...` (রিপো: `Maynul-haque/FoxScan`)।
+রিলিজ: `gh release create vX.Y.Z dist/app-release.apk --title ... --notes ...` (রিপো: `Maynul-haque/FoxScanner`)।
 
 **পরিচিত বিল্ড-ট্র্যাপ:**
 - Compose + R8 ছাড়া APK ~12 MB হয়ে যায়; minify বাধ্যতামূলক।
